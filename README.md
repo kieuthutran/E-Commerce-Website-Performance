@@ -1,2 +1,2 @@
 # Explore-Ecommerce-Dataset
-"Explore Ecommerce Dataset" is a project demonstrating basic and advanced SQL skills by working with a real-world e-commerce dataset. I used SELECT, JOIN, GROUP BY, HAVING, and window functions to answer specific business questions.
+"Explore Ecommerce Dataset" showcases SQL proficiency through practical e-commerce data analysis, utilizing SELECT, JOIN, GROUP BY, HAVING, and window functions.
