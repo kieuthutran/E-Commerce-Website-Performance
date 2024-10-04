@@ -1,5 +1,3 @@
-
-
 --Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
 SELECT 
    FORMAT_DATE("%Y%m",PARSE_DATE('%Y%m%d',date)) AS month
