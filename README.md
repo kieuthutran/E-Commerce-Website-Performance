@@ -24,7 +24,7 @@ ORDER BY month
 ```
 <img src="https://i.imgur.com/OPc2iY1.png">
 
-**Observe**:
+**Observations**:
 
 The number of visits and pageviews decreased from January to February, then increased slightly in March. The number of transactions increased from January to March.
 
@@ -50,7 +50,7 @@ ORDER BY total_visits DESC
 
 Bounce rate is a web traffic analysis metric that measures the percentage of website visitors who leave after viewing only one page.<br>
 
-**Observe**:
+**Observations**:
 
 * Google is the top traffic source with the highest number of visits (38400)
 * YouTube has the highest bounce rate (66.73%). Direct traffic has a relatively low bounce rate (43.266%)
@@ -90,7 +90,7 @@ ORDER BY revenue DESC
 ```
 <img src="https://i.imgur.com/1Z12yhA.png">
 
-**Observe**:
+**Observations**:
 
 * Direct traffic was the top revenue driver in June 2017, generating the highest total revenue.
 * Google contributed significantly to revenue, indicating the effectiveness of organic search and paid advertising.
@@ -141,7 +141,7 @@ ORDER BY purchase.month
 ```
 <img src="https://i.imgur.com/X2zXmy0.png">
 
-**Observe**:
+**Observations**:
 
 * Increased Engagement: The average number of pageviews for purchasers increased from June to July
 * Stable Engagement: The average number of pageviews for non-purchasers remained relatively stable between June and July.
@@ -168,7 +168,7 @@ GROUP BY month
 ```
 <img src="https://i.imgur.com/nNlW9BE.png">
 
-**Observe**:
+**Observations**:
 
 * Based on the query result, each customer who made a purchase during that month made 4.16 transactions on average.
 * The high average number of transactions suggests that the business has successfully retained customers, which may come from successful product recommendations or effective marketing campaigns.
@@ -194,7 +194,7 @@ SELECT
 ```
 <img src="https://i.imgur.com/BbzD6oV.png">
 
-**Observe**:
+**Observations**:
 
 * Based on the query result, the average revenue generated per user per visit in July 2017 was $43.86.
 * The relatively high average revenue per visit suggests that customers were making significant purchases during their sessions, which may come from the effectiveness of the website's conversion funnel or charging premium prices for its products.
@@ -231,7 +231,7 @@ ORDER BY quantity DESC
 ```
 <img src="https://i.imgur.com/3PGfqL3.png">
 
-**Observe**:
+**Observations**:
 
 * Google Sunglasses: This product was purchased most frequently with the "YouTube Men's Vintage Henley," indicating a strong affinity between the two. This suggests potential cross-selling opportunities, such as bundling the products or promoting sunglasses to customers who purchased the Henley.
 * Products like "Google Women's Vintage Hero Tee Black" and "SPF-15 Slim & Slender Lip Balm" were also frequently purchased with the Henley.
@@ -268,7 +268,7 @@ FROM product
 ```
 <img src="https://i.imgur.com/qeDbNOH.png">
 
-**Observe**:
+**Observations**:
 
 The conversion rates increased month-over-month, which may be due to effectiveness from marketing campaigns, website design, or product offerings.
 
